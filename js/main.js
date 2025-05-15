@@ -32,6 +32,20 @@ Version:	1.1
 =========================================
 [End Activation Code]
 =========================================*/ 
+
+function movezalo(){
+	window.scrollTo(0, 5800);
+}
+
+function movesdt(){
+	window.scrollTo(0, 2500);
+}
+function movenew(){
+	window.scrollTo(0, 4700);
+}
+function moveabout(){
+	window.scrollTo(0, 800);
+}
 (function($) {
     "use strict";
      $(document).on('ready', function() {
