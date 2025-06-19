@@ -34,7 +34,7 @@ Version:	1.1
 =========================================*/ 
 
 function movezalo(){
-	window.scrollTo(0, 5800);
+	window.location.href = "../hotro.html";
 }
 
 function movesdt(){
