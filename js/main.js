@@ -35,7 +35,6 @@ Version:	1.1
 
 function movezalo(){
 	alert("123");
-	window.location.href = "/contactpage.html"; // Thay bằng URL đích
 }
 
 function movesdt(){
