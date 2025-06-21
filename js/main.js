@@ -38,13 +38,13 @@ function movezalo(){
 }
 
 function movesdt(){
-	window.scrollTo(0, 2500);
+	window.location.href = "../contactpage.html";
 }
 function movenew(){
-	window.scrollTo(0, 4700);
+	window.location.href = "../blog-single.html";
 }
 function moveabout(){
-	window.scrollTo(0, 800);
+	window.location.href = "../index.html";
 }
 (function($) {
     "use strict";
